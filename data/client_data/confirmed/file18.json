@@ -1,0 +1,28 @@
+{
+  "identite_doc": {
+    "type_document": "facture",
+    "lieu_naissance": "Houston",
+    "nationalite": "Américaine",
+    "date_naissance": "1992-12-07",
+    "nom": "Dupont",
+    "adresse": "États-Unis"
+  },
+  "fiscalite_form": {
+    "type_formulaire": "CRS",
+    "statut_us_person": true,
+    "numero_tin": "125-83-2089",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": true,
+      "virement_vers_us": false
+    },
+    "residence_fiscale_declaree": "États-Unis"
+  },
+  "profil_kyc": {
+    "profession": "Consultant Senior",
+    "tranche_revenu_annuel": "80k-100k TND",
+    "origine_fonds": "Vente immobilière",
+    "ppe_statut": false,
+    "secteur_activite": "Éducation"
+  }
+}

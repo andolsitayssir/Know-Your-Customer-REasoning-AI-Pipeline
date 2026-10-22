@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+pydantic
+langchain-ollama
+mlflow
+langchain-huggingface
+langchain-openai
+python-dotenv
+azure-ai-inference

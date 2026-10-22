@@ -1,0 +1,27 @@
+{
+  "identite_doc": {
+    "type_document": "CNI",
+    "lieu_naissance": "Los Angelos",
+    "nationalite": "Américaine",
+    "date_naissance": "1974-02-14",
+    "nom": "Traore",
+    "adresse": "Tunisie"
+  },
+  "fiscalite_form": {
+    "type_formulaire": "FATCA_INDIVIDUAL",
+    "statut_us_person": true,
+    "numero_tin": "4102-52-4021",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": true,
+      "virement_vers_us": true
+    }
+  },
+  "profil_kyc": {
+    "profession": "Ouvrier",
+    "tranche_revenu_annuel": "> 100k TND",
+    "origine_fonds": "Inconnue",
+    "ppe_statut": false,
+    "secteur_activite": "Éducation"
+  }
+}

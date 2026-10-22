@@ -1,0 +1,27 @@
+{
+  "identite_doc": {
+    "type_document": "CNI",
+    "lieu_naissance": "Londres",
+    "nationalite": "Britannique",
+    "date_naissance": "1962-06-05",
+    "nom": "Garcia",
+    "adresse": "Royaume-Uni"
+  },
+  "fiscalite_form": {
+    "type_formulaire": "FATCA_INDIVIDUAL",
+    "statut_us_person": false,
+    "numero_tin": "",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": false,
+      "virement_vers_us": false
+    }
+  },
+  "profil_kyc": {
+    "profession": "Sans emploi",
+    "tranche_revenu_annuel": "5k TND",
+    "origine_fonds": "Héritage",
+    "ppe_statut": false,
+    "secteur_activite": "Inconnue"
+  }
+}

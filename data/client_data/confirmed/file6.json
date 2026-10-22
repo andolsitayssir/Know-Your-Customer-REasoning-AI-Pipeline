@@ -1,0 +1,27 @@
+{
+  "identite_doc": {
+    "type_document": "CNI",
+    "lieu_naissance": "Texas",
+    "nationalite": "Américaine",
+    "date_naissance": "1986-10-13",
+    "nom": "Muller",
+    "adresse": "Allemagne"
+  },
+  "fiscalite_form": {
+    "type_formulaire": "FATCA_INDIVIDUAL",
+    "statut_us_person": true,
+    "numero_tin": "7451-23-5120",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": true,
+      "virement_vers_us": false
+    }
+  },
+  "profil_kyc": {
+    "profession": "Caissier",
+    "tranche_revenu_annuel": "< 30k TND",
+    "origine_fonds": "Vente immobilière",
+    "ppe_statut": false,
+    "secteur_activite": "Éducation"
+  }
+}

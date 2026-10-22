@@ -1,0 +1,29 @@
+{
+  "identite_doc": {
+    "type_document": "CNI",
+    "lieu_naissance": "ariana",
+    "nationalite": "tunisienne",
+    "date_naissance": "1986-07-15",
+    "nom": "ahmed",
+    "adresse": "tunisie"
+  },
+
+  "fiscalite_form": {
+  "type_formulaire": "FATCA_INDIVIDUAL",
+   "statut_us_person": false,
+  "numero_tin": "",
+  "est_signe": true,
+  "indices_americanite": {
+    "naissance_us": false,
+    "virement_vers_us": true
+  }
+  },
+  "profil_kyc": {
+  
+  "profession": "Entrepreneur",
+  "tranche_revenu_annuel": "80k-100k TND",
+  "origine_fonds": "Épargne personnelle",
+  "ppe_statut": false,
+  "secteur_activite": "Finance"
+}
+  }

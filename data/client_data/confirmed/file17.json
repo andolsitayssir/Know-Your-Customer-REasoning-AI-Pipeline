@@ -1,0 +1,27 @@
+{
+  "identite_doc": {
+    "type_document": "CNI",
+    "lieu_naissance": "Los Angeles",
+    "nationalite": "Américaine",
+    "date_naissance": "1986-01-28",
+    "nom": "Ben Ali",
+    "adresse": "États-Unis"
+  },
+  "fiscalite_form": {
+    "type_formulaire": "FATCA_INDIVIDUAL",
+    "statut_us_person": true,
+    "numero_tin": "411-68-7348",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": true,
+      "virement_vers_us": false
+    }
+  },
+  "profil_kyc": {
+    "profession": "Architecte",
+    "tranche_revenu_annuel": "100k-150k TND",
+    "origine_fonds": "Salaire",
+    "ppe_statut": false,
+    "secteur_activite": "Finance"
+  }
+}

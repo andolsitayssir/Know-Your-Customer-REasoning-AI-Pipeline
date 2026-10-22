@@ -1,0 +1,28 @@
+{
+  "identite_doc": {
+    "type_document": "CNI",
+    "lieu_naissance": "Los Angeles",
+    "nationalite": "Américaine",
+    "date_naissance": "1985-07-15",
+    "nom": "Smith",
+    "adresse": "États-Unis"
+  },
+  "fiscalite_form": {
+    "type_formulaire": "FATCA_INDIVIDUAL",
+   "statut_us_person": true,
+  "numero_tin": "459-34-2557",
+  "est_signe": true,
+  "indices_americanite": {
+    "naissance_us": true,
+    "virement_vers_us": true
+  }
+  },
+  "profil_kyc": {
+  
+  "profession": "Entrepreneur",
+  "tranche_revenu_annuel": "80k-100k TND",
+  "origine_fonds": "Épargne personnelle",
+  "ppe_statut": false,
+  "secteur_activite": "Finance"
+}
+  }

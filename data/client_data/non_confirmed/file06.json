@@ -1,0 +1,26 @@
+{
+  "identite_doc": {
+    "type_document": "Facture",
+
+    "nom": "Johnson",
+    "adresse": "France"
+  },
+  "fiscalite_form": {
+    "type_formulaire": "CRS",
+    "statut_us_person": true,
+    "numero_tin": "4123-14-14501",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": true,
+      "virement_vers_us": false
+    },
+    "residence_fiscale_declaree": "Maroc"
+  },
+  "profil_kyc": {
+    "profession": "Technicien",
+    "tranche_revenu_annuel": "20k TND",
+    "origine_fonds": "Inconnue",
+    "ppe_statut": false,
+    "secteur_activite": "Éducation"
+  }
+}

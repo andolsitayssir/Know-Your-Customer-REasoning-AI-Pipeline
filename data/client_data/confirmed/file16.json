@@ -1,0 +1,26 @@
+{
+  "identite_doc": {
+    "type_document": "facture",
+    "nom": "Garcia",
+    "adresse": "États-Unis"
+  },
+
+  "fiscalite_form": {
+    "type_formulaire": "CRS",
+    "statut_us_person": true,
+    "numero_tin": "8681-43-8763",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": true,
+      "virement_vers_us": true
+    },
+    "residence_fiscale_declaree": "États-Unis"
+  },
+  "profil_kyc": {
+    "profession": "Employé",
+    "tranche_revenu_annuel": "< 30k TND",
+    "origine_fonds": "Héritage",
+    "ppe_statut": false,
+    "secteur_activite": "Technologie"
+  }
+}

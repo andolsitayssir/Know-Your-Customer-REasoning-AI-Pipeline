@@ -1,0 +1,27 @@
+{
+  "identite_doc": {
+    "type_document": "Passeport",
+    "lieu_naissance": "New York",
+    "nationalite": "Américaine",
+    "date_naissance": "1992-01-02",
+    "nom": "Rossi"
+    
+  },
+  "fiscalite_form": {
+    "type_formulaire": "FATCA_INDIVIDUAL",
+    "statut_us_person": false,
+    "numero_tin": "",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": true,
+      "virement_vers_us": false
+    }
+  },
+  "profil_kyc": {
+    "profession": "Architecte",
+    "tranche_revenu_annuel": "60k-80k TND",
+    "origine_fonds": "Dividendes",
+    "ppe_statut": false,
+    "secteur_activite": "Construction"
+  }
+}

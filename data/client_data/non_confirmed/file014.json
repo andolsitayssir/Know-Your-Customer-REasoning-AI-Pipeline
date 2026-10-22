@@ -1,0 +1,30 @@
+{
+  "identite_doc": {
+    "type_document": "Passeport",
+    "lieu_naissance": "Texas",
+    "nationalite": "Americaine",
+    "date_naissance": "1986-11-07",
+    "nom": "Muller"
+    
+  },
+
+  "fiscalite_form": {
+    "type_formulaire": "FATCA_INDIVIDUAL",
+    "statut_us_person": false,
+    "numero_tin": "",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": false,
+      "virement_vers_us": false
+    }
+  }, 
+
+  "profil_kyc": {
+    "profession": "Avocat",
+    "tranche_revenu_annuel": "60k-80k TND",
+    "origine_fonds": "Héritage",
+    "ppe_statut": false,
+    "secteur_activite": "Technologie"
+  } 
+
+}

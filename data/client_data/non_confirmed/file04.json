@@ -1,0 +1,27 @@
+{
+  "identite_doc": {
+    "type_document": "Passeport",
+    "lieu_naissance": "New York",
+    "nationalite": "Américaine",
+    "date_naissance": "1969-10-28",
+    "nom": "Brown"
+    
+  },
+  "fiscalite_form": {
+    "type_formulaire": "FATCA_INDIVIDUAL",
+    "statut_us_person": false,
+    "numero_tin": "",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": true,
+      "virement_vers_us": false
+    }
+  },
+  "profil_kyc": {
+    "profession": "Directeur",
+    "tranche_revenu_annuel": "60k-80k TND",
+    "origine_fonds": "Vente immobilière",
+    "ppe_statut": false,
+    "secteur_activite": "Santé"
+  }
+}

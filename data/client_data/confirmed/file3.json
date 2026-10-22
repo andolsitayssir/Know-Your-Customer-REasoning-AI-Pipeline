@@ -1,0 +1,29 @@
+{
+  "identite_doc": {
+    "type_document": "Passeport",
+    "lieu_naissance": "Tunis",
+    "nationalite": "Tunisienne",
+    "date_naissance": "1973-04-15",
+    "nom": "Moez"
+    
+  },
+
+  "fiscalite_form": {
+    "type_formulaire": "FATCA_INDIVIDUAL",
+    "statut_us_person": false,
+    "numero_tin": "",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": false,
+      "virement_vers_us": false
+    }
+  },
+
+  "profil_kyc": {
+    "profession": "Employé",
+    "tranche_revenu_annuel": "30k-50k TND",
+    "origine_fonds": "Épargne personnelle",
+    "ppe_statut": false,
+    "secteur_activite": "Finance"
+  }
+}

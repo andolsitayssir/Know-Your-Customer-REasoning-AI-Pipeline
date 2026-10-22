@@ -1,0 +1,25 @@
+{
+  "identite_doc": {
+    "type_document": "Facture",
+    "nom": "Garcia",
+    "adresse": "Allemagne"
+  },
+  "fiscalite_form": {
+    "type_formulaire": "CRS",
+    "statut_us_person": false,
+    "numero_tin": "",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": false,
+      "virement_vers_us": false
+    },
+    "residence_fiscale_declaree": "Allemagne"
+  },
+  "profil_kyc": {
+    "profession": "Vendeur",
+    "tranche_revenu_annuel": "< 30k TND",
+    "origine_fonds": "Salaire",
+    "ppe_statut": false,
+    "secteur_activite": "Technologie"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type_formulaire": "FATCA_INDIVIDUAL",
+  "statut_us_person": false,
+  "numero_tin": "",
+  "est_signe": true,
+  "indices_americanite": {
+    "naissance_us": false,
+    "virement_vers_us": false
+  }
+}

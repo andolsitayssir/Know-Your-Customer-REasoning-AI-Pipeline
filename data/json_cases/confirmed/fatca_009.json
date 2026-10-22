@@ -1,0 +1,10 @@
+{
+  "type_formulaire": "FATCA_INDIVIDUAL",
+  "statut_us_person": true,
+  "numero_tin": "670-56-4874",
+  "est_signe": true,
+  "indices_americanite": {
+    "naissance_us": true,
+    "virement_vers_us": false
+  }
+}

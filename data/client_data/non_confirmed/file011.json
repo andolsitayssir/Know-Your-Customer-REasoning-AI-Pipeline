@@ -1,0 +1,26 @@
+{
+  "identite_doc": {
+    "type_document": "facture",
+    "nom": "Ben Ali",
+    "adresse": "ben arous, tunisie"
+    
+  },
+  "fiscalite_form": {
+    "type_formulaire": "CRS",
+    "statut_us_person": false,
+    "numero_tin": "",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": false,
+      "virement_vers_us": true
+    },
+    "residence_fiscale_declaree": "Algerie"
+  },
+  "profil_kyc": {
+    "profession": "Entrepreneur",
+    "tranche_revenu_annuel": "60k-80k TND",
+    "origine_fonds": "Cash",
+    "ppe_statut": false,
+    "secteur_activite": "Technologie"
+  }
+}

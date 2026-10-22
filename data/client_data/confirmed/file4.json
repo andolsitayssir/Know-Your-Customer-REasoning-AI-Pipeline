@@ -1,0 +1,27 @@
+{
+  "identite_doc": {
+    "type_document": "facture",
+    "nom": "Brown",
+    "adresse": "Espagne"
+  },
+
+  "fiscalite_form": {
+    "type_formulaire": "CRS",
+    "statut_us_person": false,
+    "numero_tin": "",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": false,
+      "virement_vers_us": false
+    },
+    "residence_fiscale_declaree": "Espagne"
+  },
+
+  "profil_kyc": {
+    "profession": "Médecin",
+    "tranche_revenu_annuel": "> 100k TND",
+    "origine_fonds": "Dividendes",
+    "ppe_statut": false,
+    "secteur_activite": "Éducation"
+  }
+}

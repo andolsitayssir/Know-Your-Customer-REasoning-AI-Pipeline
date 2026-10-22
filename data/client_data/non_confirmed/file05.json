@@ -1,0 +1,27 @@
+{
+  "identite_doc": {
+    "type_document": "Passeport",
+    "lieu_naissance": "Boston",
+    "nationalite": "Américaine",
+    "date_naissance": "1993-12-02",
+    "nom": "Traore"
+    
+  },
+  "fiscalite_form": {
+    "type_formulaire": "FATCA_INDIVIDUAL",
+    "statut_us_person": false,
+    "numero_tin": "",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": true,
+      "virement_vers_us": false
+    }
+  },
+  "profil_kyc": {
+    "profession": "Ingénieur",
+    "tranche_revenu_annuel": "40k-60k TND",
+    "origine_fonds": "Inconnue",
+    "ppe_statut": false,
+    "secteur_activite": "Éducation"
+  }
+}

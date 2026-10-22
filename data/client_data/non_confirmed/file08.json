@@ -1,0 +1,27 @@
+{
+  "identite_doc": {
+    "type_document": "Passeport",
+    "lieu_naissance": "Paris",
+    "nationalite": "Française",
+    "date_naissance": "1975-12-23",
+    "nom": "Garcia"
+    
+  },
+  "fiscalite_form": {
+    "type_formulaire": "FATCA_INDIVIDUAL",
+    "statut_us_person": false,
+    "numero_tin": "",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": false,
+      "virement_vers_us": false
+    }
+  },
+  "profil_kyc": {
+    "profession": "Sans emploi",
+    "tranche_revenu_annuel": "> 100k TND",
+    "origine_fonds": "Virements étrangers",
+    "ppe_statut": false,
+    "secteur_activite": "Industrie"
+  }
+}

@@ -1,0 +1,7 @@
+.env
+/env
+/data_test
+/mlruns
+/results
+mlflow.db
+

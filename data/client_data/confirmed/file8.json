@@ -1,0 +1,26 @@
+{
+  "identite_doc": {
+    "type_document": "Facture",
+
+    "nom": "Muller",
+    "adresse": "Maroc"
+  },
+  "fiscalite_form": {
+    "type_formulaire": "CRS",
+    "statut_us_person": false,
+    "numero_tin": "",
+    "est_signe": true,
+    "indices_americanite": {
+      "naissance_us": false,
+      "virement_vers_us": false
+    },
+    "residence_fiscale_declaree": "Maroc"
+  },
+  "profil_kyc": {
+    "profession": "Consultant Senior",
+    "tranche_revenu_annuel": "> 150k TND",
+    "origine_fonds": "Salaire",
+    "ppe_statut": false,
+    "secteur_activite": "Construction"
+  }
+}
